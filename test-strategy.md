@@ -1,5 +1,22 @@
+Plan de Ataque
+Revisión del código fuente:
 
+Verifica si el código HTML está correctamente estructurado.
+Verifica que todas las etiquetas HTML estén cerradas correctamente.
+Verifica que no haya errores de sintaxis en el código JavaScript.
+Comprueba si todas las variables y constantes están declaradas y se utilizan correctamente.
+Verifica que los selectores de los elementos HTML sean correctos y estén enlazados adecuadamente en el JavaScript.
+Pruebas de funcionalidad:
 
+Abre el juego en un navegador y verifica si se carga correctamente.
+Verifica si el juego muestra el mensaje de instrucciones correctamente.
+Intenta ingresar un número en el campo de adivinanza y verifica si se muestra la respuesta adecuada (mayor, menor o correcta).
+Comprueba si el juego cuenta correctamente los intentos y muestra el número de intentos realizados.
+
+Pruebas de límites:
+
+Intenta ingresar números más allá del rango establecido (por debajo de 1 o por encima de 100) y verifica si el juego maneja adecuadamente estos casos.
+Verifica si el juego maneja correctamente entradas no numéricas y muestra mensajes de error adecuados.
 
 
 Linea 44
